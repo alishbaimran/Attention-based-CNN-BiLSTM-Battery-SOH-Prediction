@@ -16,4 +16,5 @@ The CNN can reduce the number of parameters in the training process of hybrid ne
 
 
 [1] B. Saha and K. Goebel (2007). "Battery Data Set", NASA Ames Prognostics Data Repository (https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery), NASA Ames Research Center, Moffett Field, CA
+
 [2] Zhu Z, Yang Q, Liu X, Gao D. Attention-based CNN-BiLSTM for  SOH and RUL estimation of  lithium-ion batteries. Journal of Algorithms & Computational Technology. 2022;16. doi:10.1177/17483026221130598
